@@ -1,3 +1,9 @@
 [submodule "BDS-Missions"]
 	path = BDS-Missions
 	url = https://github.com/DennisJensen95/BDS-Missions.git
+[submodule "BDS-Robobot-Brigde"]
+	path = BDS-Robobot-Brigde
+	url = https://github.com/DennisJensen95/BDS-Robobot-Brigde.git
+[submodule "BDS-Regbot"]
+	path = BDS-Regbot
+	url = https://github.com/DennisJensen95/BDS-Regbot.git
