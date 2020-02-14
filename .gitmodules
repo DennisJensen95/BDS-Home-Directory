@@ -1,0 +1,3 @@
+[submodule "BDS-Missions"]
+	path = BDS-Missions
+	url = https://github.com/DennisJensen95/BDS-Missions.git
